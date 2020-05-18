@@ -1,0 +1,187 @@
+body{
+
+    background-repeat: no-repeat;
+	background-image:url("imagenesrefa/imagen_11.jpg");
+	-webkit-background-size: cover;
+	-webkit-background-filter: grayscale(100%);
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover; 
+    
+}
+
+header{
+	background:#2c3e50;
+	color:#fff;
+
+}
+
+#box1{
+	background:#8681f7;
+}
+
+#box2{
+	background:#3430af;
+}
+
+#wordanuncio{
+	color: white;
+}
+
+#box3{
+	background:#01046d;
+}
+
+#box4{
+	background:#05063f;
+}
+
+#btn-vermas{
+	box-shadow: 4px 9px 11px -1px rgba(48,43,48,1);
+	border-radius: 5px;
+}
+
+#img-sesion{
+	box-shadow: 4px 9px 11px -1px rgba(48,43,48,1);
+	border-radius: 5px;
+}
+
+h6{
+	font-size:20pt;
+	color:white;
+}
+
+#btn-imagen{
+	background-color:#fff;
+	border-radius: 5px;
+	height: 50px;
+	font-size: 13pt;
+	box-shadow: 4px 9px 11px -1px rgba(48,43,48,1);
+}
+
+#wordinicio{
+	color:black;
+}
+
+#wordprecio{
+	color:#060265;
+}
+
+#word-registro{
+	font-size: 16pt;
+}
+
+footer{
+	background:#2c3e40;
+	color:#fff;
+}
+
+
+#caja_login{
+	background:#2c3e50;
+	color:#fff;
+	/*margin:80px 100px 0px 100px;*/
+	border-radius: 5px;
+	box-shadow: 4px 9px 11px -1px rgba(48,43,48,1);
+}
+
+#caja_registro{
+	background:#2c3e50;
+	color:#fff;
+	/*margin:80px 100px 0px 100px;*/
+	border-radius: 5px;
+	box-shadow: 4px 9px 11px -1px rgba(48,43,48,1);
+}
+
+#caja_buscador{
+	background:#2c3e30;
+	color:#fff; 
+}
+
+#caja_pago{
+	background:#6a6cfc;
+	box-shadow: 4px 9px 11px -1px rgba(48,43,48,1);
+}
+
+#caja_envio{
+	background:#9394fa;
+	box-shadow: 4px 9px 11px -1px rgba(48,43,48,1);
+}
+
+#incorrecto{
+	color:#fff;
+	background:red;
+	margin: 0px 600px 0px 600px;
+	border-radius: 5px;
+	box-shadow: 4px 9px 11px -1px rgba(48,43,48,1);
+}
+
+#input{
+	border-radius: 5px;
+	height: 50px;
+	font-size: 13pt;
+	box-shadow: 4px 9px 11px -1px rgba(48,43,48,1);
+}
+
+#inputchico{
+	border-radius: 5px;
+	height: 30px;
+	font-size: 13pt;
+	box-shadow: 4px 9px 11px -1px rgba(48,43,48,1);
+}
+
+#input2{
+	border-radius: 5px;
+	height: 50px;
+	width: 80%;
+	font-size: 13pt;
+	box-shadow: 4px 9px 11px -1px rgba(48,43,48,1);
+}
+
+#caja_administrador{
+	background:#2c3e30;
+}
+
+
+/*ESTILOS PARA EL MENÚ */
+
+ul {
+	list-style:none;
+	margin:0px;
+	padding:0px;
+}
+			
+.nav > li {
+	float:left;
+}
+			
+.nav li a {
+	background-color:#007bff;
+	color:#fff;
+	text-decoration:none;
+	padding:10px 12px;
+	display:block;
+}
+.nav li a:hover {
+	background-color:#3e59ee;
+}
+			
+.nav li ul {
+	display:none;
+	position:absolute;
+	min-width:140px;
+}
+			
+.nav li:hover > ul {
+	display:block;
+}
+			
+.nav li ul li ul {
+	right:-140px;
+	top:0px;
+}
+
+/*FIN DE ESTILOS DE MENÚ*/
+
+
+
